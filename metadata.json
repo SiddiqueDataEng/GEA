@@ -1,0 +1,7 @@
+{
+  "name": "Global Educational Academy",
+  "description": "A modern, professional school website for Global Educational Academy in Rawalpindi, Pakistan, featuring academic information, admissions, and interactive AI assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
